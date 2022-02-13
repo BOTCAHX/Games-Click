@@ -20,7 +20,8 @@ Game ini
 </div>
 
 [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
+
 ----|----
 | [BOTCAHX](https://github.com/BOTCAHX)
-| Creator
+ Creator
 
